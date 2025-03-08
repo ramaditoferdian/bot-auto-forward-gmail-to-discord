@@ -6,7 +6,7 @@ if __name__ == "__main__":
         while True:
             print("[🔍] Cek Email...")
             baca_email()
-            print("[⏳] Tunggu 10 detik...\n")
-            time.sleep(10)
+            print("[⏳] Tunggu 1 jam...\n")
+            time.sleep(3600)
     except KeyboardInterrupt:
         print("Program dihentikan secara manual.")
