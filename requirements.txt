@@ -1,0 +1,4 @@
+imapclient
+requests
+python-dotenv
+beautifulsoup4
